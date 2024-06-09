@@ -3,3 +3,4 @@
 # Alteração Teste
 * Comando Git pull
 * Comando para ver antes de puxar direto para o codigo
+* Teste para o mo ver
